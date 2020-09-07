@@ -6,7 +6,7 @@
 
   <groupId>org.muye.testmavenweb</groupId>
   <artifactId>test-maven-web</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-RELEASES</version>
   <packaging>war</packaging>
 
   <name>test-maven-web Maven Webapp</name>
